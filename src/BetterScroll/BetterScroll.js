@@ -1,5 +1,4 @@
 import BetterScroll from 'better-scroll'
-import DataEmpty from 'components/DataEmpty'
 
 export default {
   name: 'BetterScroll',
