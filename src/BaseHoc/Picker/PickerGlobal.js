@@ -1,4 +1,4 @@
-import Toast from './Toast.vue'
+import Toast from './Picker.vue'
 import store from '@/store/store'
 var inBrowser = typeof window !== 'undefined'
 var raf = inBrowser
