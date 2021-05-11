@@ -4,17 +4,17 @@
 </div>
 
 ## 抽象组件集合
-[函数节流](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Throttle.js)
+[函数节流](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Throttle)
 
-[函数防抖](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Debounce.js)
+[函数防抖](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Debounce)
 
-[事件装饰](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Decorate.js)
+[事件装饰](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/Decorate)
 
-[Portal组件](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/InsertParent.js)
+[Portal组件](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/InsertParent)
 
-[事件委托](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/EventDelegation.js)
+[事件委托](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/EventDelegation)
 
-[BetterScroll封装](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/BetterScroll.js)
+[BetterScroll封装](https://github.com/Gloomysunday28/Vue-Hoc/blob/master/src/BetterScroll)
 
 [全局Picker](https://github.com/Gloomysunday28/Vue-Hoc/tree/master/src/BaseHoc/Picker)
 
